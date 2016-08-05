@@ -1,0 +1,9 @@
+.App {
+  padding: 8px;
+  box-shadow: 3px 3px 3px #eeeee;
+}
+.Blog {
+  padding:8px;
+  margin: 8px;
+  border: 1px solid black;
+}
